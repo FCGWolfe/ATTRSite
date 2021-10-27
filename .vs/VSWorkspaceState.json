@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Images",
+    "\\outward",
+    "\\outward\\html"
   ],
-  "SelectedNode": "\\404.html",
+  "SelectedNode": "\\outward\\html\\home.html",
   "PreviewInSolutionExplorer": false
 }
